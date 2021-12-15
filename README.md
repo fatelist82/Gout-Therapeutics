@@ -16,7 +16,7 @@ In this systemic review, we performed a meta-analysis to examine each class ULTâ
 
 # Organization
 
-We have two different approaches to investigate SUA lowering effect, uric lowering and achievement difference. Each analytic approach is stored in each folder, including raw csv data files and stata script. 
+We have two different approaches to investigate SUA lowering effect, uric lowering and achievement difference. Each analytic approach is stored in each folder, including csv data files and stata script. 
 
 # How to run ths scripts
 
