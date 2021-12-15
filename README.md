@@ -10,10 +10,13 @@ In this systemic review, we performed a meta-analysis to examine each class ULTâ
 * Study end date:
 * Publications: in progress
 
+# Requirements
+
+* STATA (ver.16)
+
 # Organization
 
 We have two different approaches to investigate SUA lowering effect, uric lowering and achievement difference (Paper In Progress).
-
 
 # How to run ths scripts
 
