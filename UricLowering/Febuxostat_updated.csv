@@ -1,0 +1,47 @@
+ID,Reference_Number,Article_Authors,Sponsor,Drug,Drug_Class,Control,group,Placebo_ctrl,Filter,CKD,No_Data,Original_dose,Dose_Frequency,Dose,days,Number_Arm,Number_Male,Number_Female,Region,Region_cont,change,change.sd,change.se,per,per.sd,per.se
+4.1,4,"Xu, S., et al. (2015; NCT02082769)",Xijing Hospital,Febuxostat,XOI,0,,0,High,0,0,80,Daily,80,168,158,146,12,China,,-0.382233233,,0.045010913,38.22332331,,4.501091294
+4.2,4,"Xu, S., et al. (2015; NCT02082769)",Xijing Hospital,Febuxostat,XOI,0,,0,High,0,0,40,Daily,40,168,160,158,2,China,,-0.32489301,,0.045010913,32.489301,,4.501091294
+5.1,5,"Becker, M. A., et al. (2005; NCT00102440)",Takeda,Febuxostat,XOI,0,,0,High,1,0,80,Daily,80,365,255,243,12,North.America,,-0.4473,0.191,0.011960884,44.73,19.1,1.196088396
+5.2,5,"Becker, M. A., et al. (2005; NCT00102440)",Takeda,Febuxostat,XOI,0,,0,High,1,0,120,Daily,120,365,250,243,7,North.America,,-0.5152,0.1991,0.01259219,51.52,19.91,1.259218964
+6.1,6,"Schumacher, H. R., Jr., et al. (2008; NCT00174915)",Takeda,Febuxostat,XOI,0,,1,High,1,0,80,Daily,80,196,267,251,16,North.America,,-0.48,,0.045010913,48,,4.501091294
+6.2,6,"Schumacher, H. R., Jr., et al. (2008; NCT00174915)",Takeda,Febuxostat,XOI,0,,1,High,1,0,120,Daily,120,196,269,256,13,North.America,,-0.55,,0.045010913,55,,4.501091294
+6.3,6,"Schumacher, H. R., Jr., et al. (2008; NCT00174915)",Takeda,Febuxostat,XOI,0,,1,High,1,0,240,Daily,240,196,134,126,8,North.America,,-0.68,,0.045010913,68,,4.501091294
+7.1,7,"Becker, M. A., et al. (2010; NCT00430248)",Takeda,Febuxostat,XOI,0,,0,High,1,0,40,Daily,40,168,757,722,35,North.America,,-0.331,0.155,0.005633571,33.1,15.5,0.563357082
+7.2,7,"Becker, M. A., et al. (2010; NCT00430248)",Takeda,Febuxostat,XOI,0,,0,High,1,0,80,Daily,80,168,756,710,46,North.America,,-0.406,0.199,0.00723756,40.6,19.9,0.723756003
+3.1,3,"Goldfarb, D. S., et al. (2013; NCT01077284)",Takeda,Febuxostat,XOI,0,,1,Normal,1,0,80,Daily,80,168,33,27,6,North.America,,-0.473,,0.045010913,47.3,,4.501091294
+9.1,9,"Becker, M. A., et al. (2009; NCT00175019)",Takeda,Febuxostat,XOI,0,,0,High,1,0,80,Daily,80,480,649,,,North.America,,,,,,,
+9.2,9,"Becker, M. A., et al. (2009; NCT00175019)",Takeda,Febuxostat,XOI,0,,0,High,1,0,120,Daily,120,480,292,,,North.America,,,,,,,
+10.1,10,"Spina, M., et al. (2015; NCT01724528)",Menarini Group,Febuxostat,XOI,0,,0,Normal,0,0,120,Daily,120,9,173,108,65,Multinational,,-0.522783251,,0.045010913,52.27832513,,4.501091294
+14.1,14,"Saag, K. G., et al. (2019; NCT02139046)",Takeda,Febuxostat IR,XOI,0,,1,High,1,0,40,Daily,40,84,357,311,46,North.America,,,,,,,
+14.2,14,"Saag, K. G., et al. (2019; NCT02139046)",Takeda,Febuxostat XR,XOI,0,,1,High,1,0,40,Daily,40,84,355,312,43,North.America,,,,,,,
+14.3,14,"Saag, K. G., et al. (2019; NCT02139046)",Takeda,Febuxostat IR,XOI,0,,1,High,1,0,80,Daily,80,84,357,315,42,North.America,,,,,,,
+14.4,14,"Saag, K. G., et al. (2019; NCT02139046)",Takeda,Febuxostat XR,XOI,0,,1,High,1,0,80,Daily,80,84,357,323,34,North.America,,,,,,,
+15.1,15,"Gunawardhana, L., et al. (2018; NCT02128490)",Takeda,Febuxostat IR,XOI,0,,1,High,1,0,40,Daily,40,84,37,25,12,North.America,,,,,,,
+15.2,15,"Gunawardhana, L., et al. (2018; NCT02128490)",Takeda,Febuxostat XR,XOI,0,,1,High,1,0,40,Daily,40,84,39,26,13,North.America,,,,,,,
+15.3,15,"Gunawardhana, L., et al. (2018; NCT02128490)",Takeda,Febuxostat IR,XOI,0,,1,High,1,0,80,Daily,80,84,37,28,9,North.America,,,,,,,
+15.4,15,"Gunawardhana, L., et al. (2018; NCT02128490)",Takeda,Febuxostat XR,XOI,0,,1,High,1,0,80,Daily,80,84,38,29,9,North.America,,,,,,,
+16.1,16,"Becker, M. A., et al. (2005; NCT00174967)",Takeda,Febuxostat,XOI,0,,1,High,0,0,40,Daily,40,28,34,30,4,North.America,,-0.366,0.1207,0.020699879,36.6,12.07,2.069987923
+16.2,16,"Becker, M. A., et al. (2005; NCT00174967)",Takeda,Febuxostat,XOI,0,,1,High,0,0,80,Daily,80,28,37,35,2,North.America,,-0.443,0.1753,0.028819142,44.3,17.53,2.881914247
+16.3,16,"Becker, M. A., et al. (2005; NCT00174967)",Takeda,Febuxostat,XOI,0,,1,High,0,0,120,Daily,120,28,34,30,4,North.America,,-0.591,0.0992,0.01701266,59.1,9.92,1.701265965
+17.3,17,"Dalbeth, N., et al. (2017; NCT01510769)",Ardea Biosciences,Febuxostat,XOI,1,,0,Normal,1,0,80,Daily,80,168,109,107,2,Multinational,,0.079037801,,0.045010913,-7.903780077,,4.501091294
+18.1,18,"Schumacher, H. R., Jr., et al. (2009; NCT00174941)",Takeda,Febuxostat,XOI,0,,0,High,1,0,40,Daily,40,1820,6,,,North.America,,-0.455,0.087,0.035517601,45.5,8.7,3.551760127
+18.2,18,"Schumacher, H. R., Jr., et al. (2009; NCT00174941)",Takeda,Febuxostat,XOI,0,,0,High,1,0,80,Daily,80,1820,41,,,North.America,,-0.511,0.1321,0.020630554,51.1,13.21,2.063055395
+18.3,18,"Schumacher, H. R., Jr., et al. (2009; NCT00174941)",Takeda,Febuxostat,XOI,0,,0,High,1,0,120,Daily,120,1820,11,,,North.America,,-0.59,0.1874,0.056503226,59,18.74,5.650322597
+19.1,19,"Saag, K. G., et al. (2016; NCT01082640)",Takeda,Febuxostat,XOI,0,,1,High,1,0,30,Twice Daily,60,365,32,25,7,North.America,,,,,,,
+26.1,26,"Kamatani, N., et al. (2011a)",Teijin Pharma Ltd,Febuxostat,XOI,0,,1,High,0,0,20,Daily,20,112,43,41,2,Japan,,-0.3078,0.1105,0.016851092,30.78,11.05,1.685109202
+26.2,26,"Kamatani, N., et al. (2011a)",Teijin Pharma Ltd,Febuxostat,XOI,0,,1,High,0,0,40,Daily,40,112,41,41,0,Japan,,-0.4144,0.1576,0.024612985,41.44,15.76,2.461298487
+26.3,26,"Kamatani, N., et al. (2011a)",Teijin Pharma Ltd,Febuxostat,XOI,0,,1,High,0,0,60,Daily,60,112,36,35,1,Japan,,-0.5139,0.1655,0.027583333,51.39,16.55,2.758333333
+26.4,26,"Kamatani, N., et al. (2011a)",Teijin Pharma Ltd,Febuxostat,XOI,0,,1,High,0,0,80,Daily,80,112,41,40,1,Japan,,-0.5473,0.1522,0.023769647,54.73,15.22,2.376964656
+27.1,27,"Kamatani, N., et al. (2011b)",Teijin Pharma Ltd,Febuxostat,XOI,0,,0,High,0,0,40,Daily,40,112,9,9,0,Japan,,-0.4296,0.1333,0.044433333,42.96,13.33,4.443333333
+27.2,27,"Kamatani, N., et al. (2011b)",Teijin Pharma Ltd,Febuxostat,XOI,0,,0,High,0,0,60,Daily,60,112,8,8,0,Japan,,-0.5247,0.0979,0.034612877,52.47,9.79,3.461287694
+28.1,28,"Kamatani, N., et al. (2011c)",Teijin Pharma Ltd,Febuxostat,XOI,0,,0,High,0,0,40,Daily,40,112,122,119,3,Japan,,-0.4075,,0.045010913,40.75,,4.501091294
+29.1,29,"Kamatani, N., et al. (2011d)",Teijin Pharma Ltd,Febuxostat,XOI,0,,1,High,0,0,20,Daily,20,56,35,35,0,Japan,,-0.289,,0.018,28.9,,1.8
+29.2,29,"Kamatani, N., et al. (2011d)",Teijin Pharma Ltd,Febuxostat,XOI,0,,1,High,0,0,40,Daily,40,56,34,34,0,Japan,,-0.449,,0.02,44.9,,2
+30.1,30,"Huang, X., et al. (2014)",,Febuxostat,XOI,0,,0,High,0,0,40,Daily,40,196,172,167,5,China,,-0.328614762,,0.045010913,32.86147624,,4.501091294
+30.2,30,"Huang, X., et al. (2014)",,Febuxostat,XOI,0,,0,High,0,0,80,Daily,80,196,172,169,3,China,,-0.417835671,,0.045010913,41.78356713,,4.501091294
+53.1,52,"Tausche, A. K., et al. (2014)",,Febuxostat,XOI,0,,0,High,1,0,90,Daily,90,365,8,6,2,Europe,,-0.405405405,,0.045010913,40.54054054,,4.501091294
+54.1,53,"Hosoya, T. and I. Ohno (2011)",,Febuxostat,XOI,0,,0,Normal,0,0,20,Daily,20,7,5,5,0,Japan,,-0.313,0.139,0.06216269,31.3,13.9,6.216268977
+54.2,53,"Hosoya, T. and I. Ohno (2011)",,Febuxostat,XOI,0,,0,High,0,0,20,Daily,20,7,9,5,4,Japan,,-0.368,0.127,0.042333333,36.8,12.7,4.233333333
+54.3,53,"Hosoya, T. and I. Ohno (2011)",,Febuxostat,XOI,1,,0,Normal,0,0,20,Daily,20,7,10,9,1,Japan,,-0.335,0.072,0.022768399,33.5,7.2,2.276839915
+56.1,55,"Singal, K. K., et al. (2011)",,Febuxostat,XOI,0,,0,,0,0,80,Daily,80,168,50,,,India,,,,,,,
+60,59,"Mitsuboshi, S., et al. (2015)",,Febuxostat,XOI,0,,0,Normal,1,0,10,Daily,10,448,9,8,1,Japan,,-0.205882353,,0.045010913,20.58823529,,4.501091294

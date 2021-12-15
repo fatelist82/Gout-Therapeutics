@@ -1,0 +1,22 @@
+﻿ID,Reference_Number,Article_Authors,Sponsor,Drug,Drug_Class,original_dose,group,Placebo_ctrl,Filter,CKD,No_Data,Dose_Frequency,dose,days,Number_Arm,Number_Male,Number_Female,Region,change,change.sd,change.se,per,per.sd,per.se
+43.1,42,"Horino, T., et al. (2018)",,Topiroxostat,XOI,20,,0,High,1,0,Twice Daily,40,365,16,,,Japan,-0.278481013,,0.01095995,27.84810127,,1.095995018
+43.2,42,"Horino, T., et al. (2018)",,Topiroxostat,XOI,20,,0,Normal,1,0,Twice Daily,40,365,8,,,Japan,-0.123076923,,0.01095995,12.30769231,,1.095995018
+43.3,42,"Horino, T., et al. (2018)",,Topiroxostat,XOI,20,,0,High,1,0,Twice Daily,40,365,6,,,Japan,-0.082191781,,0.01095995,8.219178082,,1.095995018
+44,43,"Tanaka, A., et al. (2017)",,Topiroxostat,XOI,160,,0,High,1,0,Daily,160,168,1,1,0,Japan,-0.304347826,,0.01095995,30.43478261,,1.095995018
+45.1,44,"Hosoya, T., et al. (2018)",,Topiroxostat,XOI,60,,0,High,0,0,Twice Daily,120,406,84,81,3,Japan,-0.386,0.1308,0.01427145,38.6,13.08,1.427145002
+45.2,44,"Hosoya, T., et al. (2018)",,Topiroxostat,XOI,80,,0,High,0,0,Twice Daily,160,406,18,18,0,Japan,-0.426,0.1251,0.029486353,42.6,12.51,2.948635278
+46.2,45,"Hosoya, T., et al. (2016a)",,Topiroxostat,XOI,120,,0,High,0,0,Daily,120,112,98,97,1,Japan,-0.363,0.127,0.012828937,36.3,12.7,1.282893732
+47.1,46,"Hosoya, T., et al. (2014)",,Topiroxostat,XOI,160,,1,High,1,0,Daily,160,154,62,53,9,Japan,-0.4538,0.218,0.027686028,45.38,21.8,2.768602769
+48.1,47,"Hosoya, T., et al. (2016b)",,Topiroxostat,XOI,40,,1,High,0,0,Daily,40,56,36,36,0,Japan,-0.235,0.095,0.015833333,23.5,9.5,1.583333333
+48.2,47,"Hosoya, T., et al. (2016b)",,Topiroxostat,XOI,60,,1,High,0,0,Daily,60,56,37,37,0,Japan,-0.224,0.107,0.017590692,22.4,10.7,1.759069164
+48.3,47,"Hosoya, T., et al. (2016b)",,Topiroxostat,XOI,80,,1,High,0,0,Daily,80,56,37,37,0,Japan,-0.3,0.12,0.019727878,30,12,1.972787848
+48.4,47,"Hosoya, T., et al. (2016b)",,Topiroxostat,XOI,120,,1,High,0,0,Daily,120,56,35,35,0,Japan,-0.308,0.122,0.020621764,30.8,12.2,2.062176382
+49.1,48,"Hosoya, T., et al. (2017)",,Topiroxostat,XOI,120,,1,High,0,0,Daily,120,112,39,38,1,Japan,-0.4092,0.0984,0.01575661,40.92,9.84,1.575661033
+49.2,48,"Hosoya, T., et al. (2017)",,Topiroxostat,XOI,160,,1,High,0,0,Daily,160,112,40,38,2,Japan,-0.4479,0.1326,0.020965901,44.79,13.26,2.096590089
+50.1,49,"Wada, T., et al. (2018)",,Topiroxostat,XOI,160,,1,High,1,0,Daily,160,196,43,37,6,Japan,-0.4,,0.01095995,40,,1.095995018
+80.1,78,"Nagaoka, Y., et al. (2018)",,Topiroxostat,XOI,20,,0,High,1,0,Daily,20,84,13,11,2,Japan,-0.289156627,,0.01095995,28.91566265,,1.095995018
+80.3,78,"Nagaoka, Y., et al. (2018)",,Topiroxostat,XOI,20,,0,High,1,0,Daily,20,84,13,11,2,Japan,-0.238095238,,0.01095995,23.80952381,,1.095995018
+80.5,78,"Nagaoka, Y., et al. (2018)",,Topiroxostat,XOI,20,,0,High,1,0,Daily,20,28,13,11,2,Japan,-0.253012048,,0.01095995,25.30120482,,1.095995018
+80.7,78,"Nagaoka, Y., et al. (2018)",,Topiroxostat,XOI,20,,0,High,1,0,Daily,20,28,13,11,2,Japan,-0.273809524,,0.01095995,27.38095238,,1.095995018
+80.9,78,"Nagaoka, Y., et al. (2018)",,Topiroxostat,XOI,20,,0,High,1,0,Daily,20,56,13,11,2,Japan,-0.265060241,,0.01095995,26.5060241,,1.095995018
+80.12,78,"Nagaoka, Y., et al. (2018)",,Topiroxostat,XOI,20,,0,High,1,0,Daily,20,56,13,11,2,Japan,-0.273809524,,0.01095995,27.38095238,,1.095995018

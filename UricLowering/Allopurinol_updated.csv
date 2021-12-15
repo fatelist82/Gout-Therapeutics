@@ -1,0 +1,46 @@
+ID,Reference_Number,Article_Authors,Sponsor,Drug,Drug_Class,Control,group,Placebo_ctrl,Filter,CKD,No_Data,Original_dose,Dose_Frequency,Dose,days,Number_Arm,Number_Male,Number_Female,Region,Region_cont,change,change.sd,change.se,per,pse.sd,per.se
+4.3,4,"Xu, S., et al. (2015; NCT02082769)",Xijing Hospital,Allopurinol,XOI,1,,0,High,0,0,300,Daily,300,168,159,149,10,China,,-0.296760711,,0.015712789,29.67607106,,1.57127888
+5.3,5,"Becker, M. A., et al. (2005; NCT00102440)",Takeda,Allopurinol,XOI,1,,0,High,1,0,300,Daily,300,365,251,243,8,North.America,,-0.3299,0.1533,0.00967621,32.99,15.33,0.96762102
+6.4,6,"Schumacher, H. R., Jr., et al. (2008; NCT00174915)",Takeda,Allopurinol,XOI,0,,1,High,1,0,300,Daily,300,196,268,249,19,North.America,,-0.34,,0.015712789,34,,1.57127888
+7.3,7,"Becker, M. A., et al. (2010; NCT00430248)",Takeda,Allopurinol,XOI,0,,0,High,1,0,300,Daily,300,168,756,709,47,North.America,,-0.313,0.162,0.005891883,31.3,16.2,0.589188304
+3.2,3,"Goldfarb, D. S., et al. (2013; NCT01077284)",Takeda,Allopurinol,XOI,0,,1,Normal,0,0,300,Daily,300,168,33,31,2,North.America,,-0.262,,0.015712789,26.2,,1.57127888
+1.2,1,"Becker, M. A., et al. (2015; NCT01391325)",Ardea Biosciences,Allopurinol,XOI,0,,0,High,1,0,300,Daily,300,168,1132,1063,69,Multinational,,-0.251,,0.015712789,25.1,,1.57127888
+27.3,27,"Kamatani, N., et al. (2011b)",Teijin Pharma Ltd,Allopurinol,XOI,1,,0,High,0,0,100,Thrice Daily,300,112,16,16,0,Japan,,-0.3655,0.1859,0.046475,36.55,18.59,4.6475
+28.2,28,"Kamatani, N., et al. (2011c)",Teijin Pharma Ltd,Allopurinol,XOI,1,,0,High,0,0,100,Twice Daily,200,112,120,118,2,Japan,,-0.3431,,0.015712789,34.31,,1.57127888
+30.3,30,"Huang, X., et al. (2014)",,Allopurinol,XOI,1,,0,High,0,0,300,Daily,300,196,172,168,4,China,,-0.326633166,,0.015712789,32.66331658,,1.57127888
+32.3,32,NCT00230178,Sanofi,Allopurinol,XOI,1,,0,,0,0,300,Daily,300,5,91,64,27,North.America,,,,0.015712789,,,
+35.2,35,"Goldman, S. C., et al. (2001)",,Allopurinol,XOI,1,,0,Normal,0,0,100,Q8h,300,7,25,18,7,North.America,,-0.661764706,,0.015712789,66.17647059,,1.57127888
+46.1,45,"Hosoya, T., et al. (2016a)",,Allopurinol,XOI,1,,0,High,0,0,200,Daily,200,112,105,104,1,Japan,,-0.343,0.111,0.010832491,34.3,11.1,1.083249081
+49.3,48,"Hosoya, T., et al. (2017)",,Allopurinol,XOI,0,,1,High,0,0,200,Daily,200,112,38,38,0,Japan,,-0.4018,0.103,0.016708806,40.18,10.3,1.670880638
+52.1,51,"Turnheim, K., et al. (1999)",,Allopurinol,XOI,0,,0,High,0,0,200,Daily,200,1,10,6,4,Europe,,,,0.015712789,,,
+52.2,51,"Turnheim, K., et al. (1999)",,Allopurinol,XOI,1,,0,High,0,0,200,Daily,200,1,9,4,5,Europe,,,,0.015712789,,,1.57127888
+53.2,52,"Tausche, A. K., et al. (2014)",,Allopurinol,XOI,1,,0,High,1,0,461,Daily,461,365,9,9,0,Europe,,-0.389344262,,0.015712789,38.93442623,,1.57127888
+55.1,54,"Stocker, S. L., et al. (2008)",,Allopurinol,XOI,0,,0,Normal,0,0,150,Twice Daily,300,7,11,3,8,Australia,,-0.466666667,,0.015712789,46.66666667,,1.57127888
+56.2,55,"Singal, K. K., et al. (2011)",,Allopurinol,XOI,1,,0,,0,0,300,Daily,300,168,50,,,India,,,,0.015712789,,,
+57,56,"Shelmadine, B., et al. (2009)",,Allopurinol,XOI,0,,0,High,1,0,300,Daily,300,84,12,8,4,North.America,,-0.348469891,,0.015712789,34.84698914,,1.57127888
+58.1,57,"Perez-Ruiz, F., et al. (1998)",,Allopurinol,XOI,1,,0,High,0,0,300,Daily,300,,23,23,0,Europe,,-0.319767442,,0.015712789,31.97674419,,1.57127888
+58.2,57,"Perez-Ruiz, F., et al. (1998)",,Allopurinol,XOI,0,,0,High,0,0,300,Daily,300,,26,26,0,Europe,,-0.367032967,,0.015712789,36.7032967,,1.57127888
+59.1,58,"Omrani, H., et al. (2016)",,Allopurinol,XOI,0,,1,High,1,0,100,Daily,100,84,62,24,38,Iran,,-0.214380826,,0.015712789,21.43808256,,1.57127888
+61,60,"Jalalzadeh, M., et al. (2012)",,Allopurinol,XOI,0,,0,High,1,0,100,Daily,100,84,28,,,Iran,,-0.325551232,,0.015712789,32.55512322,,1.57127888
+62.1,61,"Golmohammadi, S., et al. (2017)",,Allopurinol,XOI,0,,1,High,1,0,100,Daily,100,365,77,,,Iran,,-0.216284987,,0.015712789,21.62849873,,1.57127888
+62.3,61,"Golmohammadi, S., et al. (2017)",,Allopurinol,XOI,0,,1,High,1,0,100,Daily,100,365,19,,,Iran,,-0.189808917,,0.015712789,18.98089172,,1.57127888
+63,62,"Goicoechea, M., et al. (2010)",,Allopurinol,XOI,0,,0,High,1,0,100,Daily,100,672,57,,,Europe,,-0.230769231,,0.015712789,23.07692308,,1.57127888
+64.2,63,"De Angelis, S., et al. (2007)",,Allopurinol,XOI,1,,0,,1,0,300,Daily,300,7,41,15,26,Europe,,,,0.015712789,,,
+65.1,64,"Baumgartner, S., et al. (2018)",,Allopurinol,XOI,1,,0,High,0,0,300,Daily,300,7,10,,,North.America,,-0.322,,0.021,32.2,,2.1
+65.4,64,"Baumgartner, S., et al. (2018)",,Allopurinol,XOI,1,,0,High,0,0,300,Daily,300,7,10,,,North.America,,-0.287,,0.024,28.7,,2.4
+68.3,67,"Lee, I.K. (1977b)",,Allopurinol,XOI,0,,0,High,,1,100,Thrice Daily,300,5,6,,,,,-0.27,,0.015712789,27,,1.57127888
+69.3,68,"Lee, I.K. (1977c)",,Allopurinol,XOI,0,,0,High,,1,300,Daily,300,7,6,,,,,-0.27,,0.015712789,27,,1.57127888
+73.2,71,"Reinders, M. K., et al. (2009a)",,Allopurinol,XOI,1,,0,High,0,0,300,Daily,300,61.6,27,,,Europe,,-0.37037037,,0.015712789,37.03703704,,1.57127888
+73.4,71,"Reinders, M. K., et al. (2009a)",,Allopurinol,XOI,0,,0,High,0,0,300,Twice Daily,600,70,17,,,Europe,,-0.5,,0.015712789,50,,1.57127888
+74.1,72,"Reinders, M. K., et al. (2009b)",,Allopurinol,XOI,1,,0,High,1,0,300,Daily,300,,96,88,8,Europe,,-0.35,0.11,0.011226828,35,11,1.122682799
+75.1,73,"Siu, Y. P., et al. (2006)",,Allopurinol,XOI,0,,1,High,1,0,200,Daily,200,365,25,8,17,China,,-0.396923077,,0.015712789,39.69230769,,1.57127888
+76.1,74,"Dawson, J., et al. (2009)",,Allopurinol,XOI,0,,1,Normal,0,0,300,Daily,300,90,20,,,Europe,,-0.342857143,,0.015712789,34.28571429,,1.57127888
+77,75,"Yelken, B., et al. (2012)",,Allopurinol,XOI,,,0,High,1,0,150,Daily,150,56,19,13,6,Turkey,,-0.348837209,,0.015712789,34.88372093,,1.57127888
+78.1,76,"Chen, Q., et al. (2009)",,Allopurinol,XOI,1,,0,High,0,0,100,Thrice Daily,300,42,38,36,2,China,,-0.16010906,,0.015712789,16.01090604,,1.57127888
+79,77,"Ansari-Ramandi, M. M., et al. (2017)",,Allopurinol,XOI,,,0,Normal,0,0,600,Daily,600,84,30,14,16,Iran,,-0.474576271,,0.015712789,47.45762712,,1.57127888
+80.2,78,"Nagaoka, Y., et al. (2018)",,Allopurinol,XOI,,,0,High,1,0,50,Daily,50,84,14,10,4,Japan,,-0.19047619,,0.015712789,19.04761905,,1.57127888
+80.4,78,"Nagaoka, Y., et al. (2018)",,Allopurinol,XOI,,,0,High,1,0,50,Daily,50,84,14,10,4,Japan,,-0.188235294,,0.015712789,18.82352941,,1.57127888
+80.6,78,"Nagaoka, Y., et al. (2018)",,Allopurinol,XOI,,,0,High,1,0,50,Daily,50,28,14,10,4,Japan,,-0.130952381,,0.015712789,13.0952381,,1.57127888
+80.8,78,"Nagaoka, Y., et al. (2018)",,Allopurinol,XOI,,,0,High,1,0,50,Daily,50,28,14,10,4,Japan,,-0.152941176,,0.015712789,15.29411765,,1.57127888
+80.11,78,"Nagaoka, Y., et al. (2018)",,Allopurinol,XOI,,,0,High,1,0,50,Daily,50,56,14,10,4,Japan,,-0.142857143,,0.015712789,14.28571429,,1.57127888
+80.13,78,"Nagaoka, Y., et al. (2018)",,Allopurinol,XOI,,,0,High,1,0,50,Daily,50,56,14,10,4,Japan,,-0.188235294,,0.015712789,18.82352941,,1.57127888
