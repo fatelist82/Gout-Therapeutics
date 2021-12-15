@@ -2,6 +2,14 @@
 
 In this systemic review, we performed a meta-analysis to examine each class ULT’s ability on SUA lowering effect and achievement difference (AD) for target SUA level at various doses in hyperuricemic patients.
 
+* Analytics use case(s): Clinical patients
+* Study type: Clinical Application
+* Study lead: Cho Sungkweon
+* Study lead forums tag: SKCho
+* Study start date: 
+* Study end date:
+* Publications: in progress
+
 # Organization
 
 We have two different approaches to investigate SUA lowering effect, uric lowering and achievement difference (Paper In Progress).
