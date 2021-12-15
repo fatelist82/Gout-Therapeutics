@@ -1,0 +1,14 @@
+ID,Reference_Number,Article_Authors,Sponsor,drg,ctrl,group,days,CKD,No_Data,dose_freq,dose,ctrl_dose,ctrl_frq,Placebo_ctrl,Number_Arm,Number_Male,Number_Female,Region,drg.ac,drg.nac,ctrl.n,ctrl.ac,ctrl.nac,RD,SE(RD)
+4.1,4,"Xu, S., et al. (2015; NCT02082769)",Xijing Hospital,Febuxostat,Allopurinol,1,168,0,0,Daily,80,300,1,0,158,146,12,China,53,105,159,27,132,0.165631717,0.047932561
+4.2,4,"Xu, S., et al. (2015; NCT02082769)",Xijing Hospital,Febuxostat,Allopurinol,1,168,0,0,Daily,40,300,1,0,160,158,2,China,36,124,159,27,132,0.055188679,0.04445764
+5.1,5,"Becker, M. A., et al. (2005; NCT00102440)",Takeda,Febuxostat,Allopurinol,1,365,1,0,Daily,80,300,1,0,255,243,12,North.America,136,119,251,53,198,0.322177955,0.04049266
+5.2,5,"Becker, M. A., et al. (2005; NCT00102440)",Takeda,Febuxostat,Allopurinol,1,365,1,0,Daily,120,300,1,0,250,243,7,North.America,154,96,251,53,198,0.404844622,0.040122271
+30.1,30,"Huang, X., et al. (2014)",,Febuxostat,Allopurinol,1,196,0,0,Daily,40,300,1,0,172,167,5,China,47,125,172,41,131,0.034883721,0.047011745
+30.2,30,"Huang, X., et al. (2014)",,Febuxostat,Allopurinol,1,196,0,0,Daily,80,300,1,0,172,169,3,China,77,95,172,41,131,0.209302326,0.049930933
+32.1,32,NCT00230178,Sanofi,Rasburicase,Allopurinol,3,5,0,0,Daily,14,300,1,0,92,59,33,North.America,80,12,91,60,31,0.210224558,0.060836591
+56.1,55,"Singal, K. K., et al. (2011)",,Febuxostat,Allopurinol,1,168,0,0,Daily,80,300,1,0,50,,,India,27,23,50,12,38,0.3,0.092822411
+65.2,64,"Baumgartner, S., et al. (2018)",,Lesinurad+Allopurinol,Allopurinol,2,7,0,0,Daily,400,300,1,0,10,,,North.America,10,0,10,1,9,0.9,0.09486833
+65.3,64,"Baumgartner, S., et al. (2018)",,Lesinurad,Allopurinol,2,7,0,0,Daily,400,300,1,0,10,,,North.America,2,8,10,1,9,0.1,0.158113883
+65.5,64,"Baumgartner, S., et al. (2018)",,Lesinurad+Allopurinol,Allopurinol,2,7,0,0,Daily,600,300,1,0,10,,,North.America,10,0,10,3,7,0.7,0.144913767
+65.6,64,"Baumgartner, S., et al. (2018)",,Lesinurad,Allopurinol,2,7,0,0,Daily,600,300,1,0,9,,,North.America,6,3,10,3,7,0.366666667,0.21375537
+73.1,71,"Reinders, M. K., et al. (2009a)",,Benzbromarone,Allopurinol,1,64.6,0,0,Daily,100,300,1,0,23,,,Europe,13,10,27,8,19,0.268921095,0.135672543
