@@ -2,7 +2,7 @@
 
 # How to run
 
-1. Set up the working directory in each script.
+1. Set up the working directory in each script file.
 
 2. Run the script.
 
